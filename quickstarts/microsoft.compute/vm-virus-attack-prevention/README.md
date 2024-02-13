@@ -1,5 +1,5 @@
 ---
-description: This will deploy 2 virtual machines, OMS and other network resources. One virtual machine without endpoint protection and other with enpoint protection installed. Perform the virus attack by following the guidlines and execute the scenario for mitigation and prevention of a virus attack.
+description: This will deploy 2 virtual machines, OMS and other network resources. One virtual machine without endpoint protection and other with endpoint protection installed. Perform the virus attack by following the guidlines and execute the scenario for mitigation and prevention of a virus attack.
 page_type: sample
 products:
 - azure
